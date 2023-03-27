@@ -12,5 +12,5 @@ To entice potential customers into using the product.
 
 ## Toolset
 + HTML
-+ CC
++ CSS
 + CLI (Command Line Interface)
