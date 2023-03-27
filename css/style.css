@@ -5,6 +5,21 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* START - CT updates */
+
+.ct-nav {
+	display: table;
+	margin: auto;
+	text-align: center;
+}
+
+.ct-nav li {
+	display: inline-block;
+	margin: 5px 15px;
+}
+
+/* END - CT updates */
+
 body {
   background-color: #000;
   text-align: center;
